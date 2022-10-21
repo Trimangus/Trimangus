@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trimangus
-- 👀 I’m interested in learning C and learning to use GIT
-- 🌱 I’m currently learning C and GIT
+- 👀 I’m interested in learning C, learning to use GIT and I also automate things in PowerShell
+- 🌱 I’m currently learning C, GIT and Powershell
 - 💞️ I’m looking to collaborate on *
 - 📫 How to reach me *
 
